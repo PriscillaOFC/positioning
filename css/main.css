@@ -106,6 +106,17 @@ footer {
       }
  }
  
+.text-align-center{
+    text-align:center;
+ }
+ 
+ 
+ .margin-auto > div{
+    margin:auto;
+    width:50%;
+    text-align:center;
+ }
+
  .fa {
     padding: 20px;
     font-size: 30px;
